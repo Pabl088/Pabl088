@@ -25,7 +25,7 @@
 </p>
 
 <br />
-[![Readme Card](https://readme-stats-pabl088.vercel.app/api/pin/?username=Pabl088)]
+[![Anurag's GitHub stats-Dark](https://readme-stats-pabl088.vercel.app/api?username=Pabl088&show_icons=true&theme=dark#gh-dark-mode-only)]
 <br />
 
 <h2>Do you want to contact me?</h2>
