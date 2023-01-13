@@ -25,7 +25,7 @@
 </p>
 
 <br />
-[![Readme Card](https://readme-stats-pabl088.vercel.app/api/pin/?username=Pabl088&repo=github-readme-stats)]
+[![Readme Card](https://readme-stats-pabl088.vercel.app/api/pin/?username=Pabl088)]
 <br />
 
 <h2>Do you want to contact me?</h2>
