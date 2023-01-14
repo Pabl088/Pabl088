@@ -25,7 +25,7 @@
 </p>
 
 <br />
-<img alt='stats' src="https://readme-stats-pabl088.vercel.app/api?username=Pabl088&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img alt='stats' src="https://readme-stats-pabl088.vercel.app/api?username=Pabl088"/>
 <br />
 
 <h2>Do you want to contact me?</h2>
