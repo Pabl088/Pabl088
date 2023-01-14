@@ -25,7 +25,7 @@
 </p>
 
 <br />
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Pabl088&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<img alt='Stats' src="https://readme-stats-pabl088.vercel.app/api?username=Pabl088"/>
 <br />
 
 <h2>Do you want to contact me?</h2>
