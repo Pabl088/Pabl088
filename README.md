@@ -24,9 +24,11 @@
   <img style="margin: auto;" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt=python width="60" height="60"/>
 </p>
 
+<!--
 <br />
 <img alt='Stats' src="https://readme-stats-pabl088.vercel.app/api?username=Pabl088"/>
 <br />
+-->
 
 <h2>Do you want to contact me?</h2>
 <a href="mailto:pablo.albin88@gmail.com">pablo.albin88@gmail.com</a>
